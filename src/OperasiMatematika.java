@@ -16,10 +16,10 @@ public class OperasiMatematika {
         c += 10; // sama dengan c = c + 10
         System.out.println(c);
 
-        c -= 10; // sama dengan c = c + 10
+        c -= 10; // sama dengan c = c - 10
         System.out.println(c);
 
-        c *= 10; // sama dengan c = c + 10
+        c *= 10; // sama dengan c = c * 10
         System.out.println(c);
 
         // Unary Operator (Operator yang ditempatkan di depan variabel & cukup 1 variabel)
